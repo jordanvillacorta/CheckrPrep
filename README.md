@@ -1,5 +1,10 @@
 # CheckrPrep
 
+## Checkr Interview Process & Expectations
+
+An Engineer’s Guide To Interviewing at Checkr:
+-- https://medium.com/checkr/an-engineers-guide-to-interviewing-at-checkr-fc28f9e8014b
+
 ## Documentation / Resources
 
 Building an API from Scratch with Node.js Express:
