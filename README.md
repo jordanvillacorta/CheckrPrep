@@ -2,6 +2,9 @@
 
 ## Checkr Interview Process & Expectations
 
+Notes from Interview Prep Call w/ Mimi:
+-- https://docs.google.com/document/d/19nVZOOQsIgE2Jir7xYeXOHFWEXQMSvMZ5wE-MKe0rbc/edit?usp=sharing
+
 An Engineer’s Guide To Interviewing at Checkr:
 -- https://medium.com/checkr/an-engineers-guide-to-interviewing-at-checkr-fc28f9e8014b
 
