@@ -1,4 +1,4 @@
-# CheckrPrep
+# Checkr Interview Prep
 
 ## Checkr Interview Process & Expectations
 
