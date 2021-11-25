@@ -24,3 +24,6 @@ Full Stack Architecture Example w/ Javascript:
 
 Diagram Example of a Todo App built with Firebase and ReactJS:
 -- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-build-a-todo-application-using-reactjs-and-firebase%2F&psig=AOvVaw1oE8ROsmuN8docXI6l363E&ust=1637940789124000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj7pp3rs_QCFQAAAAAdAAAAABAn
+
+Cruze User/Password Information for Demo:
+tim@demo.com as rider. jake@demo.com as driver. Password is “password” for all accounts. There is also isaac@test.com as rider and david@test.com as driver.
