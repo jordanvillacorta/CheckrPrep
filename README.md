@@ -8,6 +8,10 @@ Notes from Interview Prep Call w/ Mimi:
 An Engineer’s Guide To Interviewing at Checkr:
 -- https://medium.com/checkr/an-engineers-guide-to-interviewing-at-checkr-fc28f9e8014b
 
+## Practice & Study Guide Links:
+Object Design Interview:
+-- https://miro.com/app/board/uXjVOfSpo0A=/
+
 ## Documentation / Resources
 
 Building an API from Scratch with Node.js Express:
