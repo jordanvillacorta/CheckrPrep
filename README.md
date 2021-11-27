@@ -9,8 +9,12 @@ An Engineer’s Guide To Interviewing at Checkr:
 -- https://medium.com/checkr/an-engineers-guide-to-interviewing-at-checkr-fc28f9e8014b
 
 ## Practice & Study Guide Links:
-Object Design Interview:
+
+Object Design Interview - Miro:
 -- https://miro.com/app/board/uXjVOfSpo0A=/
+
+Technical Deep Dive - Miro:
+-- https://miro.com/app/board/uXjVOf43qLQ=/
 
 ## Documentation / Resources
 
