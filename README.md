@@ -13,7 +13,7 @@ An Engineer’s Guide To Interviewing at Checkr:
 Object Design Interview - Miro:
 -- https://miro.com/app/board/uXjVOfSpo0A=/
 
-Technical Deep Dive - Miro:
+Technical Deep Dive Interview - Miro:
 -- https://miro.com/app/board/uXjVOf43qLQ=/
 
 ## Documentation / Resources
