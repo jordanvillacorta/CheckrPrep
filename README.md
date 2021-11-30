@@ -9,10 +9,6 @@ An Engineer’s Guide To Interviewing at Checkr:
 -- https://medium.com/checkr/an-engineers-guide-to-interviewing-at-checkr-fc28f9e8014b
 
 ## Practice & Study Guide Links:
-
-Refactoring && Good Code Tips w/ Javascript:
--- https://www.youtube.com/watch?v=Mus_vwhTCq0
-
 Refactoring Interview - Questions/Ideas:
 -- https://docs.google.com/document/d/1ydvYrzs4-5fTLPzCgWuyUqsnN89EkBFvQfDFmFqoYpk/edit?usp=sharing
 
@@ -38,6 +34,9 @@ Full Stack Architecture Example w/ Javascript:
 
 Diagram Example of a Todo App built with Firebase and ReactJS:
 -- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-build-a-todo-application-using-reactjs-and-firebase%2F&psig=AOvVaw1oE8ROsmuN8docXI6l363E&ust=1637940789124000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj7pp3rs_QCFQAAAAAdAAAAABAn
+
+Refactoring && Good Code Tips w/ Javascript:
+-- https://www.youtube.com/watch?v=Mus_vwhTCq0
 
 Cruze User/Password Information for Demo:
 {rider: tim@demo.com, rider: isaac@test.com,
