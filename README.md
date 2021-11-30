@@ -13,6 +13,9 @@ An Engineer’s Guide To Interviewing at Checkr:
 Refactoring && Good Code Tips w/ Javascript:
 -- https://www.youtube.com/watch?v=Mus_vwhTCq0
 
+Refactoring Interview - Questions/Ideas:
+-- https://docs.google.com/document/d/1ydvYrzs4-5fTLPzCgWuyUqsnN89EkBFvQfDFmFqoYpk/edit?usp=sharing
+
 Object Design Interview - Miro:
 -- https://miro.com/app/board/uXjVOfSpo0A=/
 
