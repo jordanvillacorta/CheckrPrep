@@ -38,6 +38,9 @@ Diagram Example of a Todo App built with Firebase and ReactJS:
 Refactoring && Good Code Tips w/ Javascript:
 -- https://www.youtube.com/watch?v=Mus_vwhTCq0
 
+A Deep Dive Into ES6 Classes:
+-- https://dev.to/mustapha/a-deep-dive-into-es6-classes-2h52
+
 Cruze User/Password Information for Demo:
 {rider: tim@demo.com, rider: isaac@test.com,
 driver: jake@demo.com, driver: david@test.com,
