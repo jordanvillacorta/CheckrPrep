@@ -10,7 +10,7 @@ An Engineer’s Guide To Interviewing at Checkr:
 
 ## Practice & Study Guide Links:
 Refactoring Interview - Questions/Ideas:
--- https://docs.google.com/document/d/1ydvYrzs4-5fTLPzCgWuyUqsnN89EkBFvQfDFmFqoYpk/edit?usp=sharing
+-- https://www.notion.so/Checkr-Refactoring-Interview-Prep-beb842c4a6864ab0a1566d8f526f4ee5
 
 Object Design Interview - Miro:
 -- https://miro.com/app/board/uXjVOfSpo0A=/
