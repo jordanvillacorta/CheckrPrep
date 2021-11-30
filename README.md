@@ -10,6 +10,9 @@ An Engineer’s Guide To Interviewing at Checkr:
 
 ## Practice & Study Guide Links:
 
+Refactoring && Good Code Tips w/ Javascript:
+-- https://www.youtube.com/watch?v=Mus_vwhTCq0
+
 Object Design Interview - Miro:
 -- https://miro.com/app/board/uXjVOfSpo0A=/
 
