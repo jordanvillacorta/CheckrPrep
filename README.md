@@ -45,6 +45,9 @@ A Deep Dive Into ES6 Classes:
 
 ## Documentation / Resources
 
+Cruze Full Stack Diagram:
+-- https://miro.com/app/board/uXjVOf43qLQ=/
+
 Cruze User/Password Information for Demo:
 {rider: tim@demo.com, rider: isaac@test.com,
 driver: jake@demo.com, driver: david@test.com,
