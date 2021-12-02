@@ -45,6 +45,9 @@ A Deep Dive Into ES6 Classes:
 
 ## Documentation / Resources
 
+Full Stack Questions/Answers for Cruze:
+-- https://www.notion.so/Checkr-Technical-Deep-Dive-Prep-4b88af0bf1124c2396d74cf585fb1337
+
 Cruze Full Stack Diagram:
 -- https://miro.com/app/board/uXjVOf43qLQ=/
 
