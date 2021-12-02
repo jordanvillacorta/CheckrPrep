@@ -45,6 +45,9 @@ A Deep Dive Into ES6 Classes:
 
 ## Documentation / Resources
 
+What is Object-Oriented Programming? OOP explained in depth:
+-- https://www.educative.io/blog/object-oriented-programming
+
 Full Stack Questions/Answers for Cruze:
 -- https://www.notion.so/Checkr-Technical-Deep-Dive-Prep-4b88af0bf1124c2396d74cf585fb1337
 
