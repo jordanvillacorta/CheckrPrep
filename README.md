@@ -41,7 +41,9 @@ Refactoring && Good Code Tips w/ Javascript:
 A Deep Dive Into ES6 Classes:
 -- https://dev.to/mustapha/a-deep-dive-into-es6-classes-2h52
 
-## PrestoSports Interview Process & Expectations
+# PrestoSports Interview Process & Expectations
+
+## Documentation / Resources
 
 Cruze User/Password Information for Demo:
 {rider: tim@demo.com, rider: isaac@test.com,
